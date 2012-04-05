@@ -11,7 +11,7 @@ The MSISF has been developed within a [Master's Thesis][Master's Thesis] at the 
 
 ## Author ##
 
-> B.Eng. René Schwarz
+> B.Eng. René Schwarz   
 > <http://www.rene-schwarz.com>
 
     
