@@ -12,13 +12,12 @@
 #                    MSISF SURFACE PATTERN GENERATION SCRIPT
 # *******************************************************************************
 #
-#  Author:		    M.Eng. René Schwarz 
-#						mail: <mail@rene-schwarz.com>
-#						web:  http://www.rene-schwarz.com
+#  Author:          M.Eng. René Schwarz 
+#                       mail: <mail@rene-schwarz.com>
+#                       web:  http://www.rene-schwarz.com
 #                   on behalf of the German Aerospace Center (DLR)
-#  Date:			2012/05/17
-#  Filename:		generate_pattern.php
-#  Version:			1.0
+#  Date:            2012/05/17
+#  Filename:        /scripts/generate_pattern.php
 #  License:         GNU General Public License (GPL), version 2 or later
 #
 # *******************************************************************************
