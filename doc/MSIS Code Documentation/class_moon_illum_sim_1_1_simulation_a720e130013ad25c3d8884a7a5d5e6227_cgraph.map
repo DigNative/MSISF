@@ -1,0 +1,29 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_moon_illum_sim_1_1_simulation.html#a9a4686c641cf428d0854733ebbbd98d2" title="MoonIllumSim.Simulation.doCalculationsLogic" alt="" coords="313,385,602,412"/>
+<area shape="rect" id="node60" href="$class_moon_illum_sim_1_1_spacecraft.html#a5d50c8e95f48fcc6c4e70b0e357ed9bd" title="MoonIllumSim.Spacecraft.getFixedTime" alt="" coords="331,436,583,463"/>
+<area shape="rect" id="node62" href="$class_moon_illum_sim_1_1_simulation.html#a1b54aed08c585d1d57f813baba45ad86" title="MoonIllumSim.Simulation.getSimulationTime" alt="" coords="317,487,597,513"/>
+<area shape="rect" id="node5" href="$class_moon_illum_sim_1_1_spacecraft.html#a9eb525668394d1abcaf61e5e0e273fba" title="MoonIllumSim.Spacecraft.addSpacecraftState" alt="" coords="655,5,943,32"/>
+<area shape="rect" id="node7" href="$class_moon_illum_sim_1_1_spacecraft.html#a13a8e4849509ec28ebedd1d9ae7d6f74" title="MoonIllumSim.Spacecraft.getSpacecraftState" alt="" coords="656,56,941,83"/>
+<area shape="rect" id="node9" href="$class_moon_illum_sim_1_1_spacecraft_state.html#ac5fcadda7a41d2ac627efc2c75d205f6" title="MoonIllumSim.SpacecraftState.getTime" alt="" coords="673,107,924,133"/>
+<area shape="rect" id="node11" href="$class_moon_illum_sim_1_1_spacecraft_state.html#a3c554c5385db81bb315b410941312451" title="MoonIllumSim.SpacecraftState.getPosition" alt="" coords="1006,31,1277,57"/>
+<area shape="rect" id="node13" href="$class_moon_illum_sim_1_1_spacecraft_state.html#aa0349dcabe455d036eb48b1b91d7e714" title="MoonIllumSim.SpacecraftState.getSunPosition" alt="" coords="995,81,1288,108"/>
+<area shape="rect" id="node15" href="$class_moon_illum_sim_1_1_spacecraft_state.html#a8d2bcf24b6163416e70019c43b134544" title="MoonIllumSim.SpacecraftState.getOrientation" alt="" coords="998,132,1285,159"/>
+<area shape="rect" id="node17" href="$class_moon_illum_sim_1_1tools.html#a278f3f3c3322df6c8f04c9c1e87ee041" title="MoonIllumSim.tools.MJDtoUTC" alt="" coords="697,563,900,589"/>
+<area shape="rect" id="node19" href="$class_moon_illum_sim_1_1_vector3_d.html#af338ec19c1668b164b97913b58de45c1" title="MoonIllumSim.Vector3D.x" alt="" coords="1055,385,1228,412"/>
+<area shape="rect" id="node21" href="$class_moon_illum_sim_1_1tools.html#a911eb4ded9cb4f73b43960a478f93656" title="MoonIllumSim.tools.m2AU" alt="" coords="711,613,887,640"/>
+<area shape="rect" id="node23" href="$class_moon_illum_sim_1_1_vector3_d.html#aae10713e427415f901fc9ca595a48e14" title="MoonIllumSim.Vector3D.y" alt="" coords="1055,436,1228,463"/>
+<area shape="rect" id="node25" href="$class_moon_illum_sim_1_1_vector3_d.html#a04100b67a9c06e8f0268d7e509895555" title="MoonIllumSim.Vector3D.z" alt="" coords="1055,487,1228,513"/>
+<area shape="rect" id="node27" href="$class_moon_illum_sim_1_1_spacecraft.html#a0ee347888b1279d2acc3577276c7e9ec" title="MoonIllumSim.Spacecraft.isOrientationGiven" alt="" coords="1002,537,1281,564"/>
+<area shape="rect" id="node29" href="$class_moon_illum_sim_1_1_quaternion.html#ab18c48034f080575fba268f8e6ea25ad" title="MoonIllumSim.Quaternion.r" alt="" coords="709,664,888,691"/>
+<area shape="rect" id="node31" href="$class_moon_illum_sim_1_1_quaternion.html#a642544f49b27c250fbd85e8f8d93f22c" title="MoonIllumSim.Quaternion.v" alt="" coords="709,715,889,741"/>
+<area shape="rect" id="node33" href="$class_moon_illum_sim_1_1_simulation.html#ad969964a75f2355111fda979cf8e7c4e" title="MoonIllumSim.Simulation.getOutputPath" alt="" coords="670,765,927,792"/>
+<area shape="rect" id="node35" href="$class_moon_illum_sim_1_1_simulation.html#a8fad6e20910ee6a73f4ca9f7d03d9806" title="MoonIllumSim.Simulation.generatePOVRayFile" alt="" coords="651,309,946,336"/>
+<area shape="rect" id="node40" href="$class_moon_illum_sim_1_1_vector3_d.html#a3b8d6a8891012eeadf54e936de0366bc" title="MoonIllumSim.Vector3D.QuaternionRotate" alt="" coords="1008,233,1275,260"/>
+<area shape="rect" id="node54" href="$class_moon_illum_sim_1_1_vector3_d.html#a071641ac886be0e5a59e04c552c38648" title="MoonIllumSim.Vector3D.norm" alt="" coords="1044,284,1239,311"/>
+<area shape="rect" id="node56" href="$class_moon_illum_sim_1_1tools.html#a41c4aff0753239ee3396cb4057130b94" title="MoonIllumSim.tools.deg2rad" alt="" coords="1048,335,1235,361"/>
+<area shape="rect" id="node58" href="$class_moon_illum_sim_1_1tools.html#af569647d872eb2cbb7f55b57dce1fc61" title="MoonIllumSim.tools.rad2deg" alt="" coords="1048,183,1235,209"/>
+<area shape="rect" id="node42" href="$class_moon_illum_sim_1_1_quaternion.html#a80420f996ade04e0c69a2eae0e1025f5" title="MoonIllumSim.Quaternion.conjugate" alt="" coords="1337,208,1567,235"/>
+<area shape="rect" id="node46" href="$class_moon_illum_sim_1_1_quaternion.html#ac838e7c39daba331c4a3e71d5be4534a" title="MoonIllumSim.Quaternion.getVector" alt="" coords="1337,259,1567,285"/>
+<area shape="rect" id="node44" href="$class_moon_illum_sim_1_1_quaternion.html#a8380a4a7607fe2b0faeaaa905152ecb4" title="Default (empty) constructor for a quaternion." alt="" coords="1617,208,1855,235"/>
+<area shape="rect" id="node48" href="$class_moon_illum_sim_1_1_quaternion.html#ab5a4dc1fb4aae513d1d7c542d9f3cdc2" title="MoonIllumSim.Quaternion.isPure" alt="" coords="1630,259,1842,285"/>
+</map>

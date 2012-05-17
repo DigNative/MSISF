@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_moon_illum_sim_1_1_spacecraft.html#af0059f061c18d4d9eb8fd62e77d58246" title="MoonIllumSim.Spacecraft.setPosition" alt="" coords="307,5,546,32"/>
+<area shape="rect" id="node5" href="$class_moon_illum_sim_1_1_spacecraft.html#a9a8d31594e164fb79a8fd57472ac7457" title="MoonIllumSim.Spacecraft.setOrientation" alt="" coords="299,56,554,83"/>
+<area shape="rect" id="node7" href="$class_moon_illum_sim_1_1_spacecraft.html#a41964696245c4622d1f31a853f62debd" title="MoonIllumSim.Spacecraft.setFixedTime" alt="" coords="301,107,553,133"/>
+</map>

@@ -1,0 +1,11 @@
+\form#0:$r \in \mathbb{R}$
+\form#1:$q = [r,(v_x,v_y,_vz)^\mathrm{T}] = [r,\mathbf{v}]$
+\form#2:$\mathbf{v} \in \mathbb{R}^3$
+\form#3:$q$
+\form#4:$q \in \mathbb{H}$
+\form#5:$\mathbb{H}$
+\form#6:$\mathbf{v} = (v_x,v_y,v_z)^\mathrm{T} \in \mathbb{R}^{3 \times 1}$
+\form#7:$q = [r, \mathbf{v}]$
+\form#8:$r$
+\form#9:$\mathbf{v}$
+\form#10:$q = [0, (0,0,0)^\mathrm{T}]$

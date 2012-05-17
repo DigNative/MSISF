@@ -5,13 +5,13 @@ The *Moon Surface Illumination Simulation Framework* (MSISF) is a framework of s
 
 The MSISF utilizes real topography data (so-called *digital elevation models* &mdash; DEMs) to build a 3D model of the Moon originating in the LDEM products of NASA's *Lunar Reconnaissance Orbiter* (LRO) mission and its *Lunar Orbiter Laser Altimeter* (LOLA) instrument aboard. The Sun's position for the user-given simulation timepoints is calculated using SPICE, a toolkit for astrodynamical calculus offered by NASA's *Navigation and Ancillary Information Facility* (NAIF).
 
-The MSISF has been developed within a [Master's Thesis][Master's Thesis] at the Merseburg University of Applied Sciences by René Schwarz on behalf of the Institute of Space Systems of the German Aerospace Center (DLR). The objective of the MSISF is to support the development of a new optical navigation algorithm for the autonomous terrain-relative navigation and landing of spacecraft for future robotic and human missions to the Moon and other celestial bodies (for more information see the [Master's Thesis][Master's Thesis]). However, the MSISF can be used for other fields of application, too. After the final examination, the MSISF has been released subject to the conditions of the GNU General Public License (GPL), version 2 or later, to the public. It will be developed, maintained and distributed further as open-source software.
+The MSISF has been developed within a [Master's Thesis][Master's Thesis] at the Merseburg University of Applied Sciences by René Schwarz on behalf of the [Institute of Space Systems][DLR/IRS] of the [German Aerospace Center (DLR)][DLR]. The objective of the MSISF is to support the development of a new optical navigation algorithm for the autonomous terrain-relative navigation and landing of spacecraft for future robotic and human missions to the Moon and other celestial bodies (for more information see the [Master's Thesis][Master's Thesis]). However, the MSISF can be used for other fields of application, too. After the final examination, the MSISF has been released subject to the conditions of the GNU General Public License (GPL), version 2 or later, to the public. It will be developed, maintained and distributed further as open-source software.
 
 
 
 ## Author ##
 
-> B.Eng. René Schwarz   
+> M.Eng. René Schwarz   
 > <http://www.rene-schwarz.com>
 
     
@@ -22,3 +22,5 @@ The source code of the MSISF software components are subject to the conditions o
 
    [Master's Thesis]:    http://go.rene-schwarz.com/masters-thesis   "Master's Thesis 'Development of an illumination simulation software for the Moon’s surface: An approach to illumination direction estimation on pictures of solid planetary surfaces with a significant number of craters.' by B.Eng. René Schwarz"
    [CC-BY-NC]:           http://creativecommons.org/licenses/by-nc/3.0/
+   [DLR]:                http://www.dlr.de/en/
+   [DLR/IRS]:            http://www.dlr.de/irs/en/
